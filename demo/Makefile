@@ -81,6 +81,7 @@ CSRC = $(PORTSRC) \
        $(CHIBIOS)/os/various/syscalls.c \
        stm32l1xx_lcd.c \
        stm32l_discovery_lcd.c \
+       lcd_handler.c \
        main.c
        
        #stm32l1xx_rcc.c \
